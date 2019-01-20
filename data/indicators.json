@@ -1,0 +1,3269 @@
+[
+    {
+       "periodKey": "2008-q2",
+       "periodEndDate": "2008-06-30",
+       "companyKey": "betsson",
+       "revenue": "236.90",
+       "netIncome": "57.20",
+       "assets": "838.80",
+       "equity": "534.40"
+    },
+    {
+       "periodKey": "2008-q3",
+       "periodEndDate": "2008-09-30",
+       "companyKey": "betsson",
+       "revenue": "252.00",
+       "netIncome": "63.60",
+       "assets": "949.80",
+       "equity": "605.90"
+    },
+    {
+       "periodKey": "2008-q4",
+       "periodEndDate": "2008-12-31",
+       "companyKey": "betsson",
+       "revenue": "321.10",
+       "netIncome": "92.90",
+       "assets": "1146.90",
+       "equity": "720.20"
+    },
+    {
+       "periodKey": "2009-q1",
+       "periodEndDate": "2009-03-31",
+       "companyKey": "betsson",
+       "revenue": "315.50",
+       "netIncome": "78.70",
+       "assets": "1276.90",
+       "equity": "798.90"
+    },
+    {
+       "periodKey": "2009-q2",
+       "periodEndDate": "2009-06-30",
+       "companyKey": "betsson",
+       "revenue": "284.60",
+       "netIncome": "59.00",
+       "assets": "1086.30",
+       "equity": "657.80"
+    },
+    {
+       "periodKey": "2009-q3",
+       "periodEndDate": "2009-09-30",
+       "companyKey": "betsson",
+       "revenue": "316.70",
+       "netIncome": "70.30",
+       "assets": "1203.40",
+       "equity": "728.10"
+    },
+    {
+       "periodKey": "2009-q4",
+       "periodEndDate": "2009-12-31",
+       "companyKey": "betsson",
+       "revenue": "382.90",
+       "netIncome": "91.40",
+       "assets": "1392.20",
+       "equity": "820.40"
+    },
+    {
+       "periodKey": "2010-q1",
+       "periodEndDate": "2010-03-31",
+       "companyKey": "betsson",
+       "revenue": "367.70",
+       "netIncome": "82.60",
+       "assets": "1414.90",
+       "equity": "903.30"
+    },
+    {
+       "periodKey": "2010-q2",
+       "periodEndDate": "2010-06-30",
+       "companyKey": "betsson",
+       "revenue": "366.10",
+       "netIncome": "82.30",
+       "assets": "1508.40",
+       "equity": "632.50"
+    },
+    {
+       "periodKey": "2010-q3",
+       "periodEndDate": "2010-09-30",
+       "companyKey": "betsson",
+       "revenue": "385.10",
+       "netIncome": "70.70",
+       "assets": "1297.70",
+       "equity": "704.60"
+    },
+    {
+       "periodKey": "2010-q4",
+       "periodEndDate": "2010-12-31",
+       "companyKey": "betsson",
+       "revenue": "484.30",
+       "netIncome": "119.80",
+       "assets": "1495.60",
+       "equity": "825.60"
+    },
+    {
+       "periodKey": "2011-q1",
+       "periodEndDate": "2011-03-31",
+       "companyKey": "betsson",
+       "revenue": "417.40",
+       "netIncome": "126.60",
+       "assets": "1594.70",
+       "equity": "952.30"
+    },
+    {
+       "periodKey": "2011-q2",
+       "periodEndDate": "2011-06-30",
+       "companyKey": "betsson",
+       "revenue": "338.20",
+       "netIncome": "102.90",
+       "assets": "1925.00",
+       "equity": "910.50"
+    },
+    {
+       "periodKey": "2011-q3",
+       "periodEndDate": "2011-09-30",
+       "companyKey": "betsson",
+       "revenue": "465.70",
+       "netIncome": "158.20",
+       "assets": "2200.50",
+       "equity": "1212.20"
+    },
+    {
+       "periodKey": "2011-q4",
+       "periodEndDate": "2011-12-31",
+       "companyKey": "betsson",
+       "revenue": "515.20",
+       "netIncome": "119.60",
+       "assets": "2273.10",
+       "equity": "1334.30"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "betsson",
+       "revenue": "536.10",
+       "netIncome": "149.20",
+       "assets": "2359.90",
+       "equity": "1604.40"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "betsson",
+       "revenue": "486.20",
+       "netIncome": "89.10",
+       "assets": "2842.70",
+       "equity": "1347.70"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "betsson",
+       "revenue": "529.50",
+       "netIncome": "56.30",
+       "assets": "2681.80",
+       "equity": "1382.40"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "betsson",
+       "revenue": "651.90",
+       "netIncome": "201.60",
+       "assets": "2956.70",
+       "equity": "1577.80"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "betsson",
+       "revenue": "638.70",
+       "netIncome": "103.10",
+       "assets": "3247.20",
+       "equity": "1908.90"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "betsson",
+       "revenue": "579.20",
+       "netIncome": "206.10",
+       "assets": "3118.20",
+       "equity": "1704.10"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "betsson",
+       "revenue": "603.40",
+       "netIncome": "140.90",
+       "assets": "3209.40",
+       "equity": "1827.80"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "betsson",
+       "revenue": "655.50",
+       "netIncome": "204.80",
+       "assets": "3515.90",
+       "equity": "2032.20"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "betsson",
+       "revenue": "686.00",
+       "netIncome": "166.00",
+       "assets": "4913.50",
+       "equity": "2727.20"
+    },
+    {
+       "periodKey": "2014-q2",
+       "periodEndDate": "2014-06-30",
+       "companyKey": "betsson",
+       "revenue": "752.30",
+       "netIncome": "251.60",
+       "assets": "4771.90",
+       "equity": "2543.00"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "betsson",
+       "revenue": "782.10",
+       "netIncome": "191.40",
+       "assets": "4653.40",
+       "equity": "2734.10"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "betsson",
+       "revenue": "814.70",
+       "netIncome": "339.30",
+       "assets": "5010.70",
+       "equity": "3073.80"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "betsson",
+       "revenue": "847.40",
+       "netIncome": "159.50",
+       "assets": "5028.50",
+       "equity": "3233.50"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "betsson",
+       "revenue": "860.60",
+       "netIncome": "177.70",
+       "assets": "4734.60",
+       "equity": "2849.60"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "46565.00",
+       "netIncome": "1946.00",
+       "assets": "321771.00",
+       "equity": "84312.00"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "46565.00",
+       "netIncome": "1946.00",
+       "assets": "321771.00",
+       "equity": "84312.00"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "48910.00",
+       "netIncome": "2971.00",
+       "assets": "347308.00",
+       "equity": "91003.00"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "48910.00",
+       "netIncome": "2971.00",
+       "assets": "347308.00",
+       "equity": "91003.00"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "54740.00",
+       "netIncome": "2381.00",
+       "assets": "351209.00",
+       "equity": "90189.00"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "54740.00",
+       "netIncome": "2381.00",
+       "assets": "351209.00",
+       "equity": "90189.00"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "52735.00",
+       "netIncome": "2932.00",
+       "assets": "375827.00",
+       "equity": "89267.00"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "52735.00",
+       "netIncome": "2932.00",
+       "assets": "375827.00",
+       "equity": "89267.00"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "56041.00",
+       "netIncome": "2731.00",
+       "assets": "374019.00",
+       "equity": "96162.00"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "56041.00",
+       "netIncome": "2731.00",
+       "assets": "374019.00",
+       "equity": "96162.00"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "51487.00",
+       "netIncome": "-1673.00",
+       "assets": "371411.00",
+       "equity": "93612.00"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "51487.00",
+       "netIncome": "-1673.00",
+       "assets": "371411.00",
+       "equity": "93612.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "61.53",
+       "netIncome": "13.18",
+       "assets": "211.16",
+       "equity": "113.62"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "74.90",
+       "netIncome": "17.80",
+       "assets": "230.18",
+       "equity": "93.60"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "83.16",
+       "netIncome": "20.67",
+       "assets": "251.82",
+       "equity": "115.04"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "101.23",
+       "netIncome": "28.84",
+       "assets": "292.86",
+       "equity": "146.43"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "129.69",
+       "netIncome": "40.53",
+       "assets": "343.45",
+       "equity": "190.86"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "138.44",
+       "netIncome": "41.79",
+       "assets": "392.54",
+       "equity": "235.03"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "148.33",
+       "netIncome": "45.20",
+       "assets": "434.57",
+       "equity": "283.89"
+    },
+    {
+       "periodKey": "2014-q2",
+       "periodEndDate": "2014-06-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "156.01",
+       "netIncome": "49.42",
+       "assets": "476.15",
+       "equity": "335.26"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "150.09",
+       "netIncome": "37.74",
+       "assets": "531.32",
+       "equity": "359.82"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "153.14",
+       "netIncome": "46.27",
+       "assets": "553.37",
+       "equity": "392.35"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "147.46",
+       "netIncome": "41.14",
+       "assets": "553.37",
+       "equity": "392.35"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "145.27",
+       "netIncome": "4.52",
+       "assets": "600.57",
+       "equity": "422.15"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "151.41",
+       "netIncome": "53.76",
+       "assets": "583.90",
+       "equity": "413.73"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "catena-media",
+       "revenue": "68.31",
+       "netIncome": "32.77",
+       "assets": "546.01",
+       "equity": "375.39"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "catena-media",
+       "revenue": "98.13",
+       "netIncome": "46.98",
+       "assets": "674.46",
+       "equity": "447.73"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "catena-media",
+       "revenue": "104.80",
+       "netIncome": "38.28",
+       "assets": "1196.91",
+       "equity": "486.15"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "catena-media",
+       "revenue": "107.22",
+       "netIncome": "34.52",
+       "assets": "1295.99",
+       "equity": "508.74"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "betsson",
+       "revenue": "972.90",
+       "netIncome": "247.00",
+       "assets": "5688.40",
+       "equity": "3087.20"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "betsson",
+       "revenue": "1041.10",
+       "netIncome": "159.00",
+       "assets": "5727.40",
+       "equity": "3153.70"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "betsson",
+       "revenue": "1000.10",
+       "netIncome": "234.00",
+       "assets": "5727.20",
+       "equity": "3412.10"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "betsson",
+       "revenue": "935.40",
+       "netIncome": "146.30",
+       "assets": "5713.20",
+       "equity": "3028.10"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "betsson",
+       "revenue": "1063.30",
+       "netIncome": "254.20",
+       "assets": "5948.40",
+       "equity": "3343.30"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "betsson",
+       "revenue": "1118.50",
+       "netIncome": "243.50",
+       "assets": "6262.50",
+       "equity": "3502.90"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "161.87",
+       "netIncome": "49.45",
+       "assets": "636.75",
+       "equity": "427.57"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "167.43",
+       "netIncome": "52.70",
+       "assets": "658.35",
+       "equity": "431.45"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "185.68",
+       "netIncome": "57.71",
+       "assets": "747.11",
+       "equity": "440.38"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "204.76",
+       "netIncome": "71.79",
+       "assets": "803.97",
+       "equity": "512.98"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "ubiquiti-networks",
+       "revenue": "213.54",
+       "netIncome": "60.61",
+       "assets": "905.44",
+       "equity": "574.61"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "53029.00",
+       "netIncome": "-5352.00",
+       "assets": "381935.00",
+       "equity": "88060.00"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "53029.00",
+       "netIncome": "-5352.00",
+       "assets": "381935.00",
+       "equity": "88060.00"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "50964.00",
+       "netIncome": "2362.00",
+       "assets": "396927.00",
+       "equity": "89355.00"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "50964.00",
+       "netIncome": "2362.00",
+       "assets": "396927.00",
+       "equity": "89355.00"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "56971.00",
+       "netIncome": "1211.00",
+       "assets": "401429.00",
+       "equity": "88675.00"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "56971.00",
+       "netIncome": "1211.00",
+       "assets": "401429.00",
+       "equity": "88675.00"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "51997.00",
+       "netIncome": "2333.00",
+       "assets": "403890.00",
+       "equity": "90633.00"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "51997.00",
+       "netIncome": "2333.00",
+       "assets": "403890.00",
+       "equity": "90633.00"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "57335.00",
+       "netIncome": "-537.00",
+       "assets": "409732.00",
+       "equity": "92689.00"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "57335.00",
+       "netIncome": "-537.00",
+       "assets": "409732.00",
+       "equity": "92689.00"
+    },
+    {
+       "periodKey": "2009-q4",
+       "periodEndDate": "2009-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "15683.00",
+       "netIncome": "3378.00",
+       "assets": "53926.00",
+       "equity": "35768.00"
+    },
+    {
+       "periodKey": "2010-q1",
+       "periodEndDate": "2010-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "13499.00",
+       "netIncome": "3074.00",
+       "assets": "57057.00",
+       "equity": "39348.00"
+    },
+    {
+       "periodKey": "2010-q2",
+       "periodEndDate": "2010-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "28571.00",
+       "netIncome": "7308.00",
+       "assets": "106758.00",
+       "equity": "69343.00"
+    },
+    {
+       "periodKey": "2010-q3",
+       "periodEndDate": "2010-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "20343.00",
+       "netIncome": "4308.00",
+       "assets": "75183.00",
+       "equity": "27392.00"
+    },
+    {
+       "periodKey": "2010-q4",
+       "periodEndDate": "2010-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "26741.00",
+       "netIncome": "6004.00",
+       "assets": "86742.00",
+       "equity": "54666.00"
+    },
+    {
+       "periodKey": "2011-q1",
+       "periodEndDate": "2011-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "24667.00",
+       "netIncome": "5987.00",
+       "assets": "94904.00",
+       "equity": "61477.00"
+    },
+    {
+       "periodKey": "2011-q2",
+       "periodEndDate": "2011-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "28571.00",
+       "netIncome": "7308.00",
+       "assets": "106758.00",
+       "equity": "69343.00"
+    },
+    {
+       "periodKey": "2011-q3",
+       "periodEndDate": "2011-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "28270.00",
+       "netIncome": "6623.00",
+       "assets": "116371.00",
+       "equity": "76615.00"
+    },
+    {
+       "periodKey": "2011-q4",
+       "periodEndDate": "2011-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "46333.00",
+       "netIncome": "13064.00",
+       "assets": "138681.00",
+       "equity": "90054.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "39186.00",
+       "netIncome": "11622.00",
+       "assets": "150934.00",
+       "equity": "102498.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "35023.00",
+       "netIncome": "8824.00",
+       "assets": "162896.00",
+       "equity": "111746.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "35966.00",
+       "netIncome": "8223.00",
+       "assets": "176064.00",
+       "equity": "118210.00"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "54512.00",
+       "netIncome": "13078.00",
+       "assets": "196088.00",
+       "equity": "127346.00"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "43603.00",
+       "netIncome": "9547.00",
+       "assets": "194743.00",
+       "equity": "135490.00"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "35323.00",
+       "netIncome": "6900.00",
+       "assets": "199856.00",
+       "equity": "123354.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "37472.00",
+       "netIncome": "7512.00",
+       "assets": "207000.00",
+       "equity": "123549.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "57594.00",
+       "netIncome": "13072.00",
+       "assets": "225184.00",
+       "equity": "129684.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "45646.00",
+       "netIncome": "10223.00",
+       "assets": "205989.00",
+       "equity": "120179.00"
+    },
+    {
+       "periodKey": "2014-q2",
+       "periodEndDate": "2014-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "37432.00",
+       "netIncome": "7748.00",
+       "assets": "222520.00",
+       "equity": "120940.00"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "42123.00",
+       "netIncome": "8467.00",
+       "assets": "231839.00",
+       "equity": "111547.00"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "74599.00",
+       "netIncome": "18024.00",
+       "assets": "261894.00",
+       "equity": "123328.00"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "58010.00",
+       "netIncome": "13569.00",
+       "assets": "261194.00",
+       "equity": "129006.00"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "49605.00",
+       "netIncome": "10677.00",
+       "assets": "273151.00",
+       "equity": "125677.00"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "51501.00",
+       "netIncome": "11124.00",
+       "assets": "290479.00",
+       "equity": "119355.00"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "75872.00",
+       "netIncome": "18361.00",
+       "assets": "293284.00",
+       "equity": "128267.00"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "50557.00",
+       "netIncome": "10516.00",
+       "assets": "305277.00",
+       "equity": "130457.00"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "42358.00",
+       "netIncome": "7796.00",
+       "assets": "305602.00",
+       "equity": "126541.00"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "46852.00",
+       "netIncome": "9014.00",
+       "assets": "321686.00",
+       "equity": "128249.00"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "78351.00",
+       "netIncome": "17891.00",
+       "assets": "331141.00",
+       "equity": "132390.00"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "skyworks",
+       "revenue": "926.80",
+       "netIncome": "355.30",
+       "assets": "3930.50",
+       "equity": "3482.60"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "skyworks",
+       "revenue": "775.10",
+       "netIncome": "208.10",
+       "assets": "3958.20",
+       "equity": "3543.30"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "skyworks",
+       "revenue": "751.70",
+       "netIncome": "185.00",
+       "assets": "3955.70",
+       "equity": "3514.30"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "skyworks",
+       "revenue": "835.40",
+       "netIncome": "246.80",
+       "assets": "3855.40",
+       "equity": "3541.40"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "skyworks",
+       "revenue": "914.30",
+       "netIncome": "257.80",
+       "assets": "4065.70",
+       "equity": "3660.30"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "catena-media",
+       "revenue": "53.70",
+       "netIncome": "25.39",
+       "assets": "265.15",
+       "equity": "117.39"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "catena-media",
+       "revenue": "38.33",
+       "netIncome": "23.82",
+       "assets": "165.40",
+       "equity": "91.73"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "catena-media",
+       "revenue": "28.41",
+       "netIncome": "18.40",
+       "assets": "89.21",
+       "equity": "70.09"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "catena-media",
+       "revenue": "18.34",
+       "netIncome": "9.63",
+       "assets": "86.11",
+       "equity": "66.19"
+    },
+    {
+       "periodKey": "2014-q2",
+       "periodEndDate": "2014-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "50977.00",
+       "netIncome": "3249.00",
+       "assets": "336124.00",
+       "equity": "89714.00"
+    },
+    {
+       "periodKey": "2014-q2",
+       "periodEndDate": "2014-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "50977.00",
+       "netIncome": "3249.00",
+       "assets": "336124.00",
+       "equity": "89714.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "47831.00",
+       "netIncome": "2468.00",
+       "assets": "333909.00",
+       "equity": "87341.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "47831.00",
+       "netIncome": "2468.00",
+       "assets": "333909.00",
+       "equity": "87341.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "51335.00",
+       "netIncome": "2443.00",
+       "assets": "324333.00",
+       "equity": "90037.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "volkswagen",
+       "revenue": "51335.00",
+       "netIncome": "2443.00",
+       "assets": "324333.00",
+       "equity": "90037.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "46985.00",
+       "netIncome": "1909.00",
+       "assets": "323398.00",
+       "equity": "87895.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "volkswagen",
+       "revenue": "46985.00",
+       "netIncome": "1909.00",
+       "assets": "323398.00",
+       "equity": "87895.00"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "52122.00",
+       "netIncome": "2847.00",
+       "assets": "319092.00",
+       "equity": "83593.00"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "volkswagen",
+       "revenue": "52122.00",
+       "netIncome": "2847.00",
+       "assets": "319092.00",
+       "equity": "83593.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "sanderson-farms",
+       "revenue": "660.72",
+       "netIncome": "50.99",
+       "assets": "973.33",
+       "equity": "748.18"
+    },
+    {
+       "periodKey": "2014-q2",
+       "periodEndDate": "2014-06-30",
+       "companyKey": "sanderson-farms",
+       "revenue": "768.39",
+       "netIncome": "76.08",
+       "assets": "1068.45",
+       "equity": "822.55"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "sanderson-farms",
+       "revenue": "760.85",
+       "netIncome": "93.11",
+       "assets": "1111.25",
+       "equity": "897.95"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "sanderson-farms",
+       "revenue": "667.36",
+       "netIncome": "66.50",
+       "assets": "1184.12",
+       "equity": "963.09"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "sanderson-farms",
+       "revenue": "716.59",
+       "netIncome": "71.25",
+       "assets": "1186.87",
+       "equity": "972.95"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "sanderson-farms",
+       "revenue": "739.93",
+       "netIncome": "50.88",
+       "assets": "1234.29",
+       "equity": "1021.56"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "sanderson-farms",
+       "revenue": "679.59",
+       "netIncome": "27.37",
+       "assets": "1251.46",
+       "equity": "1029.86"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "sanderson-farms",
+       "revenue": "605.17",
+       "netIncome": "10.68",
+       "assets": "1260.42",
+       "equity": "1039.17"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "sanderson-farms",
+       "revenue": "692.09",
+       "netIncome": "47.60",
+       "assets": "1324.30",
+       "equity": "1089.44"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "sanderson-farms",
+       "revenue": "727.99",
+       "netIncome": "54.72",
+       "assets": "1384.82",
+       "equity": "1142.28"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "sanderson-farms",
+       "revenue": "790.81",
+       "netIncome": "75.96",
+       "assets": "1422.70",
+       "equity": "1190.26"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "sanderson-farms",
+       "revenue": "688.35",
+       "netIncome": "23.17",
+       "assets": "1451.54",
+       "equity": "1213.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "fenix-outdoor",
+       "revenue": "224.70",
+       "netIncome": "18.80",
+       "assets": "593.90",
+       "equity": "346.20"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "bilia",
+       "revenue": "3798.00",
+       "netIncome": "-18.00",
+       "assets": "6440.00",
+       "equity": "1489.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "kabe",
+       "revenue": "421.30",
+       "netIncome": "23.40",
+       "assets": "678.29",
+       "equity": "417.21"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "knowit",
+       "revenue": "311.80",
+       "netIncome": "25.40",
+       "assets": "815.00",
+       "equity": "337.00"
+    },
+    {
+       "periodKey": "2009-q1",
+       "periodEndDate": "2009-03-31",
+       "companyKey": "netflix",
+       "revenue": "394.10",
+       "netIncome": "22.36",
+       "assets": "628.68",
+       "equity": "346.31"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "facebook-inc",
+       "revenue": "895.00",
+       "netIncome": "-159.00",
+       "assets": "6331.00",
+       "equity": "4899.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "swedbank",
+       "revenue": "8446.00",
+       "netIncome": "2913.00",
+       "assets": "1695760.00",
+       "equity": "70509.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "corning-inc",
+       "revenue": "1617.00",
+       "netIncome": "1029.00",
+       "assets": "16263.00",
+       "equity": "10740.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "honeywell",
+       "revenue": "9307.00",
+       "netIncome": "823.00",
+       "assets": "40370.00",
+       "equity": "11743.00"
+    },
+    {
+       "periodKey": "2011-q4",
+       "periodEndDate": "2011-12-31",
+       "companyKey": "google",
+       "revenue": "10584.00",
+       "netIncome": "2705.00",
+       "assets": "72574.00",
+       "equity": "58145.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "metso",
+       "revenue": "1400.00",
+       "netIncome": "30.00",
+       "assets": "5536.00",
+       "equity": "1651.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "microsoft",
+       "revenue": "17407.00",
+       "netIncome": "5108.00",
+       "assets": "118010.00",
+       "equity": "68659.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "boliden",
+       "revenue": "9303.00",
+       "netIncome": "1263.00",
+       "assets": "27221.00",
+       "equity": "13699.00"
+    },
+    {
+       "periodKey": "2008-q1",
+       "periodEndDate": "2008-03-31",
+       "companyKey": "seagate-technology",
+       "revenue": "3104.00",
+       "netIncome": "344.00",
+       "assets": "10413.00",
+       "equity": "4663.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "intel",
+       "revenue": "13501.00",
+       "netIncome": "2827.00",
+       "assets": "72352.00",
+       "equity": "48779.00"
+    },
+    {
+       "periodKey": "2011-q1",
+       "periodEndDate": "2011-03-31",
+       "companyKey": "american-tower",
+       "revenue": "562.70",
+       "netIncome": "91.96",
+       "assets": "10758.75",
+       "equity": "3509.02"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "western-digital",
+       "revenue": "3035.00",
+       "netIncome": "483.00",
+       "assets": "14510.00",
+       "equity": "7416.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "mastercard",
+       "revenue": "1758.00",
+       "netIncome": "682.00",
+       "assets": "11131.00",
+       "equity": "6371.00"
+    },
+    {
+       "periodKey": "2011-q4",
+       "periodEndDate": "2011-12-31",
+       "companyKey": "ica-gruppen",
+       "revenue": "840.00",
+       "netIncome": "150.00",
+       "assets": "10060.00",
+       "equity": "8613.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "walt-disney-co-",
+       "revenue": "9629.00",
+       "netIncome": "1143.00",
+       "assets": "75233.00",
+       "equity": "38049.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "visa",
+       "revenue": "2578.00",
+       "netIncome": "1292.00",
+       "assets": "36846.00",
+       "equity": "28521.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "3d-systems",
+       "revenue": "83.61",
+       "netIncome": "8.32",
+       "assets": "632.34",
+       "equity": "384.07"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "dassault-systemes",
+       "revenue": "499.50",
+       "netIncome": "82.60",
+       "assets": "3736.00",
+       "equity": "2257.30"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "trimble",
+       "revenue": "517.56",
+       "netIncome": "53.69",
+       "assets": "2972.96",
+       "equity": "1706.77"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "nasdaq-omx",
+       "revenue": "815.00",
+       "netIncome": "93.00",
+       "assets": "8927.00",
+       "equity": "4961.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "activision-blizzard",
+       "revenue": "1075.00",
+       "netIncome": "185.00",
+       "assets": "12269.00",
+       "equity": "10564.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "amazon-inc",
+       "revenue": "12834.00",
+       "netIncome": "7.00",
+       "assets": "21022.00",
+       "equity": "7505.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "time-warner-inc",
+       "revenue": "6744.00",
+       "netIncome": "413.00",
+       "assets": "65955.00",
+       "equity": "29442.00"
+    },
+    {
+       "periodKey": "2010-q3",
+       "periodEndDate": "2010-09-30",
+       "companyKey": "coach-inc",
+       "revenue": "911.67",
+       "netIncome": "188.88",
+       "assets": "2609.83",
+       "equity": "1582.67"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "oracle",
+       "revenue": "8181.00",
+       "netIncome": "2034.00",
+       "assets": "76558.00",
+       "equity": "43329.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "whole-foods-market",
+       "revenue": "2911.00",
+       "netIncome": "113.00",
+       "assets": "5294.22",
+       "equity": "3802.47"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "the-kroger-co",
+       "revenue": "21807.00",
+       "netIncome": "317.00",
+       "assets": "24658.00",
+       "equity": "3761.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "teradata-corp",
+       "revenue": "647.00",
+       "netIncome": "104.00",
+       "assets": "3051.00",
+       "equity": "1878.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "starbucks",
+       "revenue": "3303.60",
+       "netIncome": "333.10",
+       "assets": "8308.90",
+       "equity": "5388.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "simon-property-group",
+       "revenue": "1228.62",
+       "netIncome": "255.75",
+       "assets": "31977.98",
+       "equity": "5841.68"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "harley-davidson",
+       "revenue": "1250.30",
+       "netIncome": "134.00",
+       "assets": "10015.18",
+       "equity": "2703.36"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "nuance-inc",
+       "revenue": "468.78",
+       "netIncome": "117.64",
+       "assets": "5799.04",
+       "equity": "2728.28"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "tesla",
+       "revenue": "50.10",
+       "netIncome": "-110.80",
+       "assets": "809.18",
+       "equity": "-27.88"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "nxp-semiconductors",
+       "revenue": "1170.00",
+       "netIncome": "115.00",
+       "assets": "6501.00",
+       "equity": "1187.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "polaris-industries",
+       "revenue": "879.94",
+       "netIncome": "94.34",
+       "assets": "1471.43",
+       "equity": "659.08"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "ebay",
+       "revenue": "3404.00",
+       "netIncome": "597.00",
+       "assets": "32502.00",
+       "equity": "19913.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "gamestop",
+       "revenue": "1772.80",
+       "netIncome": "-624.30",
+       "assets": "4349.30",
+       "equity": "2097.60"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "broadcom",
+       "revenue": "2128.00",
+       "netIncome": "220.00",
+       "assets": "10880.00",
+       "equity": "7448.00"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "general-motors",
+       "revenue": "152256.00",
+       "netIncome": "6188.00",
+       "assets": "149422.00",
+       "equity": "36244.00"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "linkedin",
+       "revenue": "303.62",
+       "netIncome": "11.51",
+       "assets": "1382.33",
+       "equity": "908.42"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "logitech",
+       "revenue": "614.50",
+       "netIncome": "-195.33",
+       "assets": "1489.07",
+       "equity": "756.57"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "abercrombie--fitch-co",
+       "revenue": "1169.65",
+       "netIncome": "84.04",
+       "assets": "2849.45",
+       "equity": "1662.77"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "america-movil",
+       "revenue": "192820.00",
+       "netIncome": "30451.00",
+       "assets": "966087.71",
+       "equity": "293009.92"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "las-vegas-sands-corp",
+       "revenue": "3077.00",
+       "netIncome": "434.78",
+       "assets": "22163.65",
+       "equity": "7061.84"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "qlikview",
+       "revenue": "137.49",
+       "netIncome": "13.27",
+       "assets": "390.37",
+       "equity": "225.56"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "king",
+       "revenue": "69.61",
+       "netIncome": "6.08",
+       "assets": "75.22",
+       "equity": "33.53"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "starz",
+       "revenue": "399.32",
+       "netIncome": "57.87",
+       "assets": "1512.30",
+       "equity": "138.72"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "dts-inc",
+       "revenue": "29.77",
+       "netIncome": "-0.10",
+       "assets": "247.06",
+       "equity": "180.93"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "jarden-corp",
+       "revenue": "1580.70",
+       "netIncome": "-4.40",
+       "assets": "7484.70",
+       "equity": "1517.50"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "deere--co",
+       "revenue": "10913.50",
+       "netIncome": "1084.20",
+       "assets": "58155.10",
+       "equity": "8264.90"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "live-nation-entertainment",
+       "revenue": "1679.51",
+       "netIncome": "58.13",
+       "assets": "6082.81",
+       "equity": "1392.27"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "alibaba",
+       "revenue": "10778.00",
+       "netIncome": "4444.00",
+       "assets": "107058.00",
+       "equity": "33240.00"
+    },
+    {
+       "periodKey": "2010-q1",
+       "periodEndDate": "2010-03-31",
+       "companyKey": "kinnevik-ab",
+       "revenue": "2283.00",
+       "netIncome": "6814.00",
+       "assets": "60002.00",
+       "equity": "48490.00"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "starbreeze",
+       "revenue": "11.65",
+       "netIncome": "0.59",
+       "assets": "33.98",
+       "equity": "28.70"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "millicom",
+       "revenue": "1383.00",
+       "netIncome": "-37.00",
+       "assets": "8037.00",
+       "equity": "1915.00"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "haldex",
+       "revenue": "951.00",
+       "netIncome": "28.00",
+       "assets": "2669.00",
+       "equity": "1149.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "cisco",
+       "revenue": "12085.00",
+       "netIncome": "1996.00",
+       "assets": "100741.00",
+       "equity": "58897.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "adamas-pharmaceuticals",
+       "revenue": "30.98",
+       "netIncome": "19.98",
+       "assets": "50.10",
+       "equity": "44.55"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "apollo-education",
+       "revenue": "848.15",
+       "netIncome": "98.89",
+       "assets": "2463.03",
+       "equity": "1210.29"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "avid-technology",
+       "revenue": "138.89",
+       "netIncome": "2.58",
+       "assets": "245.41",
+       "equity": "-361.23"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "blucora-inc",
+       "revenue": "124.12",
+       "netIncome": "-6.48",
+       "assets": "887.49",
+       "equity": "483.63"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "buckle-inc",
+       "revenue": "286.76",
+       "netIncome": "40.58",
+       "assets": "545.78",
+       "equity": "371.86"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "ca-inc",
+       "revenue": "1105.00",
+       "netIncome": "240.00",
+       "assets": "11595.00",
+       "equity": "5675.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "deluxe-corp",
+       "revenue": "398.08",
+       "netIncome": "46.90",
+       "assets": "1509.69",
+       "equity": "520.33"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "depomed-inc",
+       "revenue": "37.46",
+       "netIncome": "6.51",
+       "assets": "156.74",
+       "equity": "92.21"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "fluor-corporation",
+       "revenue": "6684.22",
+       "netIncome": "173.05",
+       "assets": "8727.17",
+       "equity": "3793.61"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "gamestop-corp",
+       "revenue": "2106.70",
+       "netIncome": "68.60",
+       "assets": "4565.00",
+       "equity": "2147.30"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "inteliquent-inc",
+       "revenue": "50.40",
+       "netIncome": "6.47",
+       "assets": "131.41",
+       "equity": "108.99"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "interdigital-inc",
+       "revenue": "110.62",
+       "netIncome": "26.66",
+       "assets": "1129.59",
+       "equity": "542.76"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "weight-watchers-international-inc",
+       "revenue": "396.33",
+       "netIncome": "60.26",
+       "assets": "1408.24",
+       "equity": "-1509.39"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "viacom-inc",
+       "revenue": "3652.00",
+       "netIncome": "804.00",
+       "assets": "23829.00",
+       "equity": "5193.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "vectrus-inc",
+       "revenue": "349.00",
+       "netIncome": "19.00",
+       "assets": "489.00",
+       "equity": "191.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "unisys-corporation",
+       "revenue": "792.10",
+       "netIncome": "-7.60",
+       "assets": "2237.70",
+       "equity": "-1531.20"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "travelzoo-inc",
+       "revenue": "37.26",
+       "netIncome": "-19.04",
+       "assets": "113.95",
+       "equity": "36.03"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "take-two-interactive-software-inc",
+       "revenue": "148.82",
+       "netIncome": "-124.12",
+       "assets": "2701.31",
+       "equity": "498.86"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "rpx-corp",
+       "revenue": "58.55",
+       "netIncome": "8.40",
+       "assets": "552.64",
+       "equity": "412.59"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "petmed-express-inc",
+       "revenue": "60.48",
+       "netIncome": "4.15",
+       "assets": "77.83",
+       "equity": "67.16"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "performant-financial-corp",
+       "revenue": "76.81",
+       "netIncome": "15.45",
+       "assets": "253.31",
+       "equity": "65.03"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "pdl-biopharma-inc",
+       "revenue": "91.85",
+       "netIncome": "53.47",
+       "assets": "312.81",
+       "equity": "93.67"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "neustar-inc",
+       "revenue": "227.63",
+       "netIncome": "47.54",
+       "assets": "1518.70",
+       "equity": "626.71"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "natural-health-trends-corp",
+       "revenue": "14.18",
+       "netIncome": "1.32",
+       "assets": "13.69",
+       "equity": "4.47"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "mind-cti-ltd",
+       "revenue": "4.53",
+       "netIncome": "0.60",
+       "assets": "28.05",
+       "equity": "19.87"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "mesabi-trust",
+       "revenue": "6.35",
+       "netIncome": "6.14",
+       "assets": "10.11",
+       "equity": "3.37"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "liquidity-services-inc",
+       "revenue": "129.13",
+       "netIncome": "10.41",
+       "assets": "421.34",
+       "equity": "314.88"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "lifevantage-corp",
+       "revenue": "51.33",
+       "netIncome": "3.26",
+       "assets": "54.46",
+       "equity": "35.08"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "argan-inc",
+       "revenue": "63.45",
+       "netIncome": "11.93",
+       "assets": "260.45",
+       "equity": "145.21"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "avid-technology-inc",
+       "revenue": "138.89",
+       "netIncome": "2.58",
+       "assets": "245.41",
+       "equity": "-361.23"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "aware-inc",
+       "revenue": "4.31",
+       "netIncome": "-1.15",
+       "assets": "89.65",
+       "equity": "83.26"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "blucora-inc",
+       "revenue": "124.12",
+       "netIncome": "-6.48",
+       "assets": "887.49",
+       "equity": "483.63"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "alliance-fiber-optic-products-inc",
+       "revenue": "23.07",
+       "netIncome": "5.62",
+       "assets": "95.00",
+       "equity": "76.11"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "anika-therapeutics-inc",
+       "revenue": "17.75",
+       "netIncome": "4.96",
+       "assets": "156.88",
+       "equity": "128.21"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "concurrent-computer-corp",
+       "revenue": "17.20",
+       "netIncome": "0.73",
+       "assets": "44.45",
+       "equity": "25.68"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "gold-resource-corporation",
+       "revenue": "29.41",
+       "netIncome": "-1.83",
+       "assets": "101.74",
+       "equity": "81.39"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "higher-one-holdings-inc",
+       "revenue": "57.11",
+       "netIncome": "-5.49",
+       "assets": "237.58",
+       "equity": "64.88"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "ituran-location-and-control-ltd",
+       "revenue": "42.39",
+       "netIncome": "6.98",
+       "assets": "159.87",
+       "equity": "92.73"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "nu-skin-enterprises-inc",
+       "revenue": "908.30",
+       "netIncome": "110.90",
+       "assets": "1688.49",
+       "equity": "742.43"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "pitney-bowes-inc",
+       "revenue": "920.49",
+       "netIncome": "-5.53",
+       "assets": "7149.93",
+       "equity": "11.24"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "strayer-education-inc",
+       "revenue": "110.03",
+       "netIncome": "3.15",
+       "assets": "240.95",
+       "equity": "56.97"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "sturm-ruger--company",
+       "revenue": "170.94",
+       "netIncome": "28.67",
+       "assets": "250.38",
+       "equity": "152.59"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "tessera-technologies-inc",
+       "revenue": "37.26",
+       "netIncome": "-70.97",
+       "assets": "557.57",
+       "equity": "517.99"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "tribune-publishing-co",
+       "revenue": "423.78",
+       "netIncome": "18.28",
+       "assets": "804.02",
+       "equity": "511.26"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "usana-health-sciences-inc",
+       "revenue": "173.69",
+       "netIncome": "16.75",
+       "assets": "331.33",
+       "equity": "238.65"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "wayside-technology-group-inc",
+       "revenue": "70.46",
+       "netIncome": "1.33",
+       "assets": "76.41",
+       "equity": "33.10"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "transocean-ltd",
+       "revenue": "2449.00",
+       "netIncome": "546.00",
+       "assets": "32601.00",
+       "equity": "16274.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "rex-american-resources-corp",
+       "revenue": "166.19",
+       "netIncome": "9.87",
+       "assets": "410.70",
+       "equity": "263.32"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "seadrill-ltd",
+       "revenue": "1280.00",
+       "netIncome": "286.00",
+       "assets": "24979.00",
+       "equity": "7138.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "statoil",
+       "revenue": "161600.00",
+       "netIncome": "14300.00",
+       "assets": "831200.00",
+       "equity": "339400.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "halliburton",
+       "revenue": "7639.00",
+       "netIncome": "793.00",
+       "assets": "29223.00",
+       "equity": "13581.00"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "accretive-health-inc",
+       "revenue": "18.76",
+       "netIncome": "-28.91",
+       "assets": "0.00",
+       "equity": "0.00"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "brocade-communication-systems",
+       "revenue": "558.80",
+       "netIncome": "64.23",
+       "assets": "3621.39",
+       "equity": "2346.81"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "dhi-group-inc",
+       "revenue": "58.42",
+       "netIncome": "-5.86",
+       "assets": "420.64",
+       "equity": "167.81"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "lannett-company-inc",
+       "revenue": "45.83",
+       "netIncome": "-6.00",
+       "assets": "175.12",
+       "equity": "144.87"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "mannatech-inc",
+       "revenue": "44.43",
+       "netIncome": "-0.80",
+       "assets": "55.04",
+       "equity": "20.97"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "enata-pharmaceuticals-inc",
+       "revenue": "1.35",
+       "netIncome": "-4.44",
+       "assets": "116.97",
+       "equity": "110.47"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "capella-education-company",
+       "revenue": "105.98",
+       "netIncome": "10.02",
+       "assets": "250.25",
+       "equity": "182.02"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "pilgrim's-pride-corporation",
+       "revenue": "2047.29",
+       "netIncome": "143.35",
+       "assets": "3172.40",
+       "equity": "1489.82"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "psivida-corp",
+       "revenue": "0.59",
+       "netIncome": "-3.51",
+       "assets": "20.82",
+       "equity": "12.60"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "qlik-technologies-inc",
+       "revenue": "161.79",
+       "netIncome": "8.28",
+       "assets": "467.92",
+       "equity": "272.17"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "raytheon-company",
+       "revenue": "5870.00",
+       "netIncome": "531.00",
+       "assets": "25967.00",
+       "equity": "11035.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "smart-technologies-inc",
+       "revenue": "157.97",
+       "netIncome": "4.01",
+       "assets": "374.23",
+       "equity": "-29.35"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "collectors-universe-inc",
+       "revenue": "27.72",
+       "netIncome": "2.85",
+       "assets": "31.76",
+       "equity": "19.10"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "tivo-inc",
+       "revenue": "218.92",
+       "netIncome": "0.00",
+       "assets": "0.00",
+       "equity": "0.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "qualcomm-inc",
+       "revenue": "6622.00",
+       "netIncome": "1875.00",
+       "assets": "46282.00",
+       "equity": "37027.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "tupperware-brands-corporarion",
+       "revenue": "717.10",
+       "netIncome": "89.70",
+       "assets": "1843.90",
+       "equity": "252.90"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "manpowergroup-inc",
+       "revenue": "5252.10",
+       "netIncome": "101.20",
+       "assets": "7288.30",
+       "equity": "2914.20"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "agilent-technologies-inc",
+       "revenue": "1766.00",
+       "netIncome": "0.00",
+       "assets": "0.00",
+       "equity": "0.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "boeing-co",
+       "revenue": "23785.00",
+       "netIncome": "1233.00",
+       "assets": "92663.00",
+       "equity": "14875.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "ralph-lauren-corp",
+       "revenue": "2015.00",
+       "netIncome": "237.00",
+       "assets": "6060.00",
+       "equity": "4034.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "verizon-communications-inc",
+       "revenue": "31065.00",
+       "netIncome": "5067.00",
+       "assets": "274098.00",
+       "equity": "38836.00"
+    },
+    {
+       "periodKey": "2010-q1",
+       "periodEndDate": "2010-03-31",
+       "companyKey": "ngs-group",
+       "revenue": "20.57",
+       "netIncome": "0.23",
+       "assets": "58.29",
+       "equity": "20.36"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "american-public-education-inc",
+       "revenue": "82.94",
+       "netIncome": "9.00",
+       "assets": "271.65",
+       "equity": "207.07"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "block-hr-inc",
+       "revenue": "133.59",
+       "netIncome": "0.00",
+       "assets": "0.00",
+       "equity": "0.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "engility-holdings-inc",
+       "revenue": "329.06",
+       "netIncome": "10.68",
+       "assets": "930.05",
+       "equity": "430.38"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "gilead-sciences-inc",
+       "revenue": "3119.83",
+       "netIncome": "791.41",
+       "assets": "22579.00",
+       "equity": "11370.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "kornferry-international",
+       "revenue": "260.80",
+       "netIncome": "21.21",
+       "assets": "1233.67",
+       "equity": "755.54"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "navigant-consulting-inc",
+       "revenue": "204.82",
+       "netIncome": "14.22",
+       "assets": "904.20",
+       "equity": "597.08"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "pozen-inc",
+       "revenue": "4.67",
+       "netIncome": "-2.18",
+       "assets": "35.33",
+       "equity": "17.79"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "penn-national-gaming-inc",
+       "revenue": "2918.75",
+       "netIncome": "-794.34",
+       "assets": "2183.99",
+       "equity": "758.40"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "douglas-dynamics-inc",
+       "revenue": "73.00",
+       "netIncome": "8.53",
+       "assets": "364.34",
+       "equity": "155.32"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "nevsun-resources",
+       "revenue": "4.00",
+       "netIncome": "-4.21",
+       "assets": "870.86",
+       "equity": "608.62"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "sandisk-corporation",
+       "revenue": "1727.86",
+       "netIncome": "337.78",
+       "assets": "10488.72",
+       "equity": "6967.87"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "newlink-genetics-corp",
+       "revenue": "0.29",
+       "netIncome": "-8.05",
+       "assets": "70.56",
+       "equity": "58.33"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "science-applications-international-corp",
+       "revenue": "952.00",
+       "netIncome": "0.00",
+       "assets": "0.00",
+       "equity": "0.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "best-buy-co-inc",
+       "revenue": "8896.00",
+       "netIncome": "0.00",
+       "assets": "0.00",
+       "equity": "0.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "crown-media-holdings-inc",
+       "revenue": "90.67",
+       "netIncome": "12.04",
+       "assets": "1036.17",
+       "equity": "411.18"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "gap-inc",
+       "revenue": "3774.00",
+       "netIncome": "260.00",
+       "assets": "7695.00",
+       "equity": "3036.00"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "lands'-end-inc",
+       "revenue": "330.48",
+       "netIncome": "10.87",
+       "assets": "1227.75",
+       "equity": "345.33"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "omnicom-group-inc",
+       "revenue": "3502.10",
+       "netIncome": "205.50",
+       "assets": "21087.90",
+       "equity": "3718.50"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "supernus-pharmaceuticals-inc",
+       "revenue": "9.08",
+       "netIncome": "-15.54",
+       "assets": "97.52",
+       "equity": "29.01"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "time-inc",
+       "revenue": "966.00",
+       "netIncome": "66.00",
+       "assets": "5674.00",
+       "equity": "4042.00"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "sl-industries-inc",
+       "revenue": "32.78",
+       "netIncome": "0.31",
+       "assets": "113.33",
+       "equity": "59.17"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "outerwall-inc",
+       "revenue": "597.76",
+       "netIncome": "23.18",
+       "assets": "1702.57",
+       "equity": "121.23"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "zynga",
+       "revenue": "168.02",
+       "netIncome": "-61.18",
+       "assets": "2434.15",
+       "equity": "1989.12"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "netscout-systems-inc",
+       "revenue": "112.32",
+       "netIncome": "16.68",
+       "assets": "607.76",
+       "equity": "409.16"
+    },
+    {
+       "periodKey": "2013-q4",
+       "periodEndDate": "2013-12-31",
+       "companyKey": "xenon-pharmaceuticals-inc",
+       "revenue": "27.36",
+       "netIncome": "12.03",
+       "assets": "54.49",
+       "equity": "24.12"
+    },
+    {
+       "periodKey": "2014-q1",
+       "periodEndDate": "2014-03-31",
+       "companyKey": "tyson-foods",
+       "revenue": "9032.00",
+       "netIncome": "213.00",
+       "assets": "11886.00",
+       "equity": "6436.00"
+    },
+    {
+       "periodKey": "2008-q2",
+       "periodEndDate": "2008-06-30",
+       "companyKey": "bilia",
+       "revenue": "4015.00",
+       "netIncome": "54.00",
+       "assets": "6734.00",
+       "equity": "1381.00"
+    },
+    {
+       "periodKey": "2008-q3",
+       "periodEndDate": "2008-09-30",
+       "companyKey": "bilia",
+       "revenue": "3132.00",
+       "netIncome": "3.00",
+       "assets": "6064.00",
+       "equity": "1384.00"
+    },
+    {
+       "periodKey": "2008-q4",
+       "periodEndDate": "2008-12-31",
+       "companyKey": "bilia",
+       "revenue": "3335.00",
+       "netIncome": "-152.00",
+       "assets": "5414.00",
+       "equity": "1299.00"
+    },
+    {
+       "periodKey": "2009-q1",
+       "periodEndDate": "2009-03-31",
+       "companyKey": "bilia",
+       "revenue": "3040.00",
+       "netIncome": "-13.00",
+       "assets": "4823.00",
+       "equity": "1216.00"
+    },
+    {
+       "periodKey": "2009-q2",
+       "periodEndDate": "2009-06-30",
+       "companyKey": "bilia",
+       "revenue": "3569.00",
+       "netIncome": "20.00",
+       "assets": "4650.00",
+       "equity": "1236.00"
+    },
+    {
+       "periodKey": "2009-q3",
+       "periodEndDate": "2009-09-30",
+       "companyKey": "bilia",
+       "revenue": "3253.00",
+       "netIncome": "20.00",
+       "assets": "4430.00",
+       "equity": "1271.00"
+    },
+    {
+       "periodKey": "2009-q4",
+       "periodEndDate": "2009-12-31",
+       "companyKey": "bilia",
+       "revenue": "3838.00",
+       "netIncome": "84.00",
+       "assets": "4717.00",
+       "equity": "1425.00"
+    },
+    {
+       "periodKey": "2010-q1",
+       "periodEndDate": "2010-03-31",
+       "companyKey": "bilia",
+       "revenue": "3742.00",
+       "netIncome": "48.00",
+       "assets": "4705.00",
+       "equity": "1481.00"
+    },
+    {
+       "periodKey": "2010-q2",
+       "periodEndDate": "2010-06-30",
+       "companyKey": "bilia",
+       "revenue": "4158.00",
+       "netIncome": "89.00",
+       "assets": "4824.00",
+       "equity": "1498.00"
+    },
+    {
+       "periodKey": "2010-q3",
+       "periodEndDate": "2010-09-30",
+       "companyKey": "bilia",
+       "revenue": "3737.00",
+       "netIncome": "65.00",
+       "assets": "4685.00",
+       "equity": "1564.00"
+    },
+    {
+       "periodKey": "2010-q4",
+       "periodEndDate": "2010-12-31",
+       "companyKey": "bilia",
+       "revenue": "4620.00",
+       "netIncome": "175.00",
+       "assets": "5078.00",
+       "equity": "1739.00"
+    },
+    {
+       "periodKey": "2011-q1",
+       "periodEndDate": "2011-03-31",
+       "companyKey": "bilia",
+       "revenue": "4344.00",
+       "netIncome": "63.00",
+       "assets": "5231.00",
+       "equity": "1805.00"
+    },
+    {
+       "periodKey": "2011-q2",
+       "periodEndDate": "2011-06-30",
+       "companyKey": "bilia",
+       "revenue": "4857.00",
+       "netIncome": "200.00",
+       "assets": "5435.00",
+       "equity": "1704.00"
+    },
+    {
+       "periodKey": "2011-q3",
+       "periodEndDate": "2011-09-30",
+       "companyKey": "bilia",
+       "revenue": "4179.00",
+       "netIncome": "68.00",
+       "assets": "5362.00",
+       "equity": "1723.00"
+    },
+    {
+       "periodKey": "2011-q4",
+       "periodEndDate": "2011-12-31",
+       "companyKey": "bilia",
+       "revenue": "4780.00",
+       "netIncome": "90.00",
+       "assets": "5506.00",
+       "equity": "1813.00"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "bilia",
+       "revenue": "4562.00",
+       "netIncome": "51.00",
+       "assets": "5813.00",
+       "equity": "1927.00"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "bilia",
+       "revenue": "4742.00",
+       "netIncome": "35.00",
+       "assets": "5596.00",
+       "equity": "1692.00"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "bilia",
+       "revenue": "3824.00",
+       "netIncome": "-16.00",
+       "assets": "5323.00",
+       "equity": "1658.00"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "bilia",
+       "revenue": "4534.00",
+       "netIncome": "84.00",
+       "assets": "5793.00",
+       "equity": "1753.00"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "bilia",
+       "revenue": "4048.00",
+       "netIncome": "29.00",
+       "assets": "5432.00",
+       "equity": "1615.00"
+    },
+    {
+       "periodKey": "2007-q1",
+       "periodEndDate": "2007-03-31",
+       "companyKey": "bilia",
+       "revenue": "3309.00",
+       "netIncome": "31.00",
+       "assets": "5564.00",
+       "equity": "1722.00"
+    },
+    {
+       "periodKey": "2007-q2",
+       "periodEndDate": "2007-06-30",
+       "companyKey": "bilia",
+       "revenue": "3856.00",
+       "netIncome": "34.00",
+       "assets": "6484.00",
+       "equity": "1584.00"
+    },
+    {
+       "periodKey": "2007-q3",
+       "periodEndDate": "2007-09-30",
+       "companyKey": "bilia",
+       "revenue": "3721.00",
+       "netIncome": "16.00",
+       "assets": "6897.00",
+       "equity": "1486.00"
+    },
+    {
+       "periodKey": "2007-q4",
+       "periodEndDate": "2007-12-31",
+       "companyKey": "bilia",
+       "revenue": "4518.00",
+       "netIncome": "19.00",
+       "assets": "7043.00",
+       "equity": "2154.00"
+    },
+    {
+       "periodKey": "2008-q2",
+       "periodEndDate": "2008-06-30",
+       "companyKey": "kabe",
+       "revenue": "413.32",
+       "netIncome": "20.77",
+       "assets": "779.49",
+       "equity": "383.43"
+    },
+    {
+       "periodKey": "2008-q3",
+       "periodEndDate": "2008-09-30",
+       "companyKey": "kabe",
+       "revenue": "231.22",
+       "netIncome": "0.11",
+       "assets": "754.73",
+       "equity": "384.08"
+    },
+    {
+       "periodKey": "2008-q4",
+       "periodEndDate": "2008-12-31",
+       "companyKey": "kabe",
+       "revenue": "286.80",
+       "netIncome": "4.20",
+       "assets": "786.50",
+       "equity": "388.00"
+    },
+    {
+       "periodKey": "2009-q1",
+       "periodEndDate": "2009-03-31",
+       "companyKey": "kabe",
+       "revenue": "272.30",
+       "netIncome": "12.10",
+       "assets": "844.67",
+       "equity": "400.11"
+    },
+    {
+       "periodKey": "2009-q2",
+       "periodEndDate": "2009-06-30",
+       "companyKey": "kabe",
+       "revenue": "328.15",
+       "netIncome": "15.94",
+       "assets": "755.01",
+       "equity": "393.09"
+    },
+    {
+       "periodKey": "2009-q3",
+       "periodEndDate": "2009-09-30",
+       "companyKey": "kabe",
+       "revenue": "210.30",
+       "netIncome": "4.60",
+       "assets": "725.00",
+       "equity": "398.00"
+    },
+    {
+       "periodKey": "2009-q4",
+       "periodEndDate": "2009-12-31",
+       "companyKey": "kabe",
+       "revenue": "334.00",
+       "netIncome": "19.00",
+       "assets": "678.30",
+       "equity": "417.20"
+    },
+    {
+       "periodKey": "2010-q1",
+       "periodEndDate": "2010-03-31",
+       "companyKey": "kabe",
+       "revenue": "388.80",
+       "netIncome": "18.52",
+       "assets": "804.56",
+       "equity": "435.73"
+    },
+    {
+       "periodKey": "2010-q2",
+       "periodEndDate": "2010-06-30",
+       "companyKey": "kabe",
+       "revenue": "396.89",
+       "netIncome": "28.10",
+       "assets": "804.56",
+       "equity": "435.73"
+    },
+    {
+       "periodKey": "2010-q3",
+       "periodEndDate": "2010-09-30",
+       "companyKey": "kabe",
+       "revenue": "262.80",
+       "netIncome": "24.30",
+       "assets": "761.20",
+       "equity": "461.10"
+    },
+    {
+       "periodKey": "2010-q4",
+       "periodEndDate": "2010-12-31",
+       "companyKey": "kabe",
+       "revenue": "359.30",
+       "netIncome": "26.30",
+       "assets": "745.60",
+       "equity": "487.40"
+    },
+    {
+       "periodKey": "2011-q1",
+       "periodEndDate": "2011-03-31",
+       "companyKey": "kabe",
+       "revenue": "464.37",
+       "netIncome": "30.57",
+       "assets": "913.64",
+       "equity": "517.98"
+    },
+    {
+       "periodKey": "2011-q2",
+       "periodEndDate": "2011-06-30",
+       "companyKey": "kabe",
+       "revenue": "456.18",
+       "netIncome": "38.85",
+       "assets": "898.51",
+       "equity": "516.33"
+    },
+    {
+       "periodKey": "2011-q3",
+       "periodEndDate": "2011-09-30",
+       "companyKey": "kabe",
+       "revenue": "303.13",
+       "netIncome": "18.95",
+       "assets": "900.79",
+       "equity": "535.28"
+    },
+    {
+       "periodKey": "2011-q4",
+       "periodEndDate": "2011-12-31",
+       "companyKey": "kabe",
+       "revenue": "320.59",
+       "netIncome": "19.23",
+       "assets": "861.08",
+       "equity": "554.50"
+    },
+    {
+       "periodKey": "2012-q1",
+       "periodEndDate": "2012-03-31",
+       "companyKey": "kabe",
+       "revenue": "419.65",
+       "netIncome": "29.08",
+       "assets": "964.34",
+       "equity": "583.59"
+    },
+    {
+       "periodKey": "2012-q2",
+       "periodEndDate": "2012-06-30",
+       "companyKey": "kabe",
+       "revenue": "405.19",
+       "netIncome": "27.64",
+       "assets": "949.65",
+       "equity": "566.22"
+    },
+    {
+       "periodKey": "2012-q3",
+       "periodEndDate": "2012-09-30",
+       "companyKey": "kabe",
+       "revenue": "239.71",
+       "netIncome": "13.75",
+       "assets": "906.00",
+       "equity": "579.97"
+    },
+    {
+       "periodKey": "2012-q4",
+       "periodEndDate": "2012-12-31",
+       "companyKey": "kabe",
+       "revenue": "236.01",
+       "netIncome": "22.28",
+       "assets": "913.17",
+       "equity": "602.25"
+    },
+    {
+       "periodKey": "2013-q1",
+       "periodEndDate": "2013-03-31",
+       "companyKey": "kabe",
+       "revenue": "354.60",
+       "netIncome": "22.40",
+       "assets": "1036.60",
+       "equity": "624.70"
+    },
+    {
+       "periodKey": "2013-q2",
+       "periodEndDate": "2013-06-30",
+       "companyKey": "kabe",
+       "revenue": "382.72",
+       "netIncome": "23.45",
+       "assets": "985.73",
+       "equity": "612.17"
+    },
+    {
+       "periodKey": "2013-q3",
+       "periodEndDate": "2013-09-30",
+       "companyKey": "kabe",
+       "revenue": "311.80",
+       "netIncome": "13.17",
+       "assets": "995.05",
+       "equity": "625.34"
+    },
+    {
+       "periodKey": "2014-q3",
+       "periodEndDate": "2014-09-30",
+       "companyKey": "fingerprint",
+       "revenue": "66.20",
+       "netIncome": "-43.30",
+       "assets": "390.90",
+       "equity": "307.10"
+    },
+    {
+       "periodKey": "2014-q4",
+       "periodEndDate": "2014-12-31",
+       "companyKey": "fingerprint",
+       "revenue": "105.00",
+       "netIncome": "-29.70",
+       "assets": "424.60",
+       "equity": "301.10"
+    },
+    {
+       "periodKey": "2015-q1",
+       "periodEndDate": "2015-03-31",
+       "companyKey": "fingerprint",
+       "revenue": "139.90",
+       "netIncome": "-18.90",
+       "assets": "480.70",
+       "equity": "282.20"
+    },
+    {
+       "periodKey": "2015-q2",
+       "periodEndDate": "2015-06-30",
+       "companyKey": "fingerprint",
+       "revenue": "445.10",
+       "netIncome": "65.50",
+       "assets": "613.00",
+       "equity": "347.60"
+    },
+    {
+       "periodKey": "2015-q3",
+       "periodEndDate": "2015-09-30",
+       "companyKey": "fingerprint",
+       "revenue": "964.00",
+       "netIncome": "347.40",
+       "assets": "1143.90",
+       "equity": "731.50"
+    },
+    {
+       "periodKey": "2015-q4",
+       "periodEndDate": "2015-12-31",
+       "companyKey": "fingerprint",
+       "revenue": "1351.50",
+       "netIncome": "404.30",
+       "assets": "1910.10",
+       "equity": "1146.80"
+    },
+    {
+       "periodKey": "2016-q1",
+       "periodEndDate": "2016-03-31",
+       "companyKey": "fingerprint",
+       "revenue": "1491.20",
+       "netIncome": "459.50",
+       "assets": "2364.40",
+       "equity": "1673.10"
+    },
+    {
+       "periodKey": "2016-q2",
+       "periodEndDate": "2016-06-30",
+       "companyKey": "fingerprint",
+       "revenue": "1666.10",
+       "netIncome": "554.70",
+       "assets": "3092.70",
+       "equity": "1990.10"
+    },
+    {
+       "periodKey": "2016-q3",
+       "periodEndDate": "2016-09-30",
+       "companyKey": "fingerprint",
+       "revenue": "1862.30",
+       "netIncome": "597.60",
+       "assets": "2783.30",
+       "equity": "1772.20"
+    },
+    {
+       "periodKey": "2016-q4",
+       "periodEndDate": "2016-12-31",
+       "companyKey": "fingerprint",
+       "revenue": "1618.70",
+       "netIncome": "423.20",
+       "assets": "3503.00",
+       "equity": "2226.10"
+    },
+    {
+       "periodKey": "2017-q1",
+       "periodEndDate": "2017-03-31",
+       "companyKey": "betsson",
+       "revenue": "1102.00",
+       "netIncome": "242.40",
+       "assets": "6891.70",
+       "equity": "3746.80"
+    },
+    {
+       "periodKey": "2017-q1",
+       "periodEndDate": "2017-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "56197.00",
+       "netIncome": "4289.00",
+       "assets": "425556.00",
+       "equity": "97046.00"
+    },
+    {
+       "periodKey": "2017-q1",
+       "periodEndDate": "2017-03-31",
+       "companyKey": "volkswagen",
+       "revenue": "56197.00",
+       "netIncome": "4289.00",
+       "assets": "425556.00",
+       "equity": "97046.00"
+    },
+    {
+       "periodKey": "2017-q1",
+       "periodEndDate": "2017-03-31",
+       "companyKey": "apple-inc",
+       "revenue": "52896.00",
+       "netIncome": "11029.00",
+       "assets": "334532.00",
+       "equity": "134082.00"
+    },
+    {
+       "periodKey": "2017-q2",
+       "periodEndDate": "2017-06-30",
+       "companyKey": "apple-inc",
+       "revenue": "45408.00",
+       "netIncome": "8717.00",
+       "assets": "345173.00",
+       "equity": "132425.00"
+    },
+    {
+       "periodKey": "2017-q3",
+       "periodEndDate": "2017-09-30",
+       "companyKey": "apple-inc",
+       "revenue": "52579.00",
+       "netIncome": "10714.00",
+       "assets": "375319.00",
+       "equity": "134047.00"
+    },
+    {
+       "periodKey": "2017-q4",
+       "periodEndDate": "2017-12-31",
+       "companyKey": "apple-inc",
+       "revenue": "88293.00",
+       "netIncome": "20065.00",
+       "assets": "406794.00",
+       "equity": "140199.00"
+    }
+ ]

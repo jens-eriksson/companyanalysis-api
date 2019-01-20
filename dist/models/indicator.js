@@ -10,8 +10,8 @@ var IndicatorSchema = new Schema({
     netIncome: { type: Number, required: 'netIncome is required' },
     assets: { type: Number, required: 'assets is required' },
     equity: { type: Number, required: 'equity is required' },
-    stockQuote: { type: Number, required: 'stockQuote is required' },
-    numberOfShares: { type: Number, required: 'numberOfShares is required' },
+    stockQuote: Number,
+    numberOfShares: Number,
     profitMargin: Number,
     solidity: Number,
     marketCap: Number,
@@ -26,6 +26,9 @@ var IndicatorSchema = new Schema({
     revenueGrowthTTM: Number,
     investmentGradeTTM: Number,
     periodEndDate: Date
-}, { _id: false });
+});
 exports.Indicator = mongoose.model("Indicator", IndicatorSchema);
+exports.Indicator.calculate = function (indicator) {
+    console.log(indicator);
+};
 //# sourceMappingURL=indicator.js.map

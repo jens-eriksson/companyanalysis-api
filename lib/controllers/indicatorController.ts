@@ -5,7 +5,9 @@ export class IndicatorController {
     public add(req, res) {
         if (req.user.role == "admin") {
             let indicator = new Indicator(req.body);
-            indicator.key = indicator.companyKey + "-" + indicator.peroidKey;
+            indicator.key = indicator.companyKey + "-" + indicator.periodKey;
+            Indicator.calculate(indicator);
+            
             indicator.save((err, indicator) => {
                 if (err) {
                     res.send(err);
@@ -19,11 +21,11 @@ export class IndicatorController {
     }
 
     public getAll(req, res) {
-        Indicator.find({}).sort('-periodEndDate').exec((err, indicator) => {
+        Indicator.find({}).sort('-periodEndDate').exec((err, indicators) => {
             if (err) {
                 res.send(err);
             }
-            res.json(indicator);
+            res.json(indicators);
         });
     }
 

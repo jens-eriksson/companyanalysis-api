@@ -7,6 +7,6 @@ var PeriodSchema = new Schema({
     name: { type: String, required: 'Name is required' },
     startDate: { type: Date, required: 'StartDate is required' },
     endDate: { type: Date, required: 'EndDate is required' },
-}, { _id: false });
+});
 exports.Period = mongoose.model("Period", PeriodSchema);
 //# sourceMappingURL=period.js.map

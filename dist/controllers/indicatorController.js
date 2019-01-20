@@ -7,7 +7,7 @@ var IndicatorController = /** @class */ (function () {
     IndicatorController.prototype.add = function (req, res) {
         if (req.user.role == "admin") {
             var indicator = new indicator_1.Indicator(req.body);
-            indicator.key = indicator.companyKey + "-" + indicator.peroidKey;
+            indicator.key = indicator.companyKey + "-" + indicator.periodKey;
             indicator.save(function (err, indicator) {
                 if (err) {
                     res.send(err);
@@ -20,11 +20,11 @@ var IndicatorController = /** @class */ (function () {
         }
     };
     IndicatorController.prototype.getAll = function (req, res) {
-        indicator_1.Indicator.find({}).sort('-periodEndDate').exec(function (err, indicator) {
+        indicator_1.Indicator.find({}).sort('-periodEndDate').exec(function (err, indicators) {
             if (err) {
                 res.send(err);
             }
-            res.json(indicator);
+            res.json(indicators);
         });
     };
     IndicatorController.prototype.getByKey = function (req, res) {
@@ -32,6 +32,7 @@ var IndicatorController = /** @class */ (function () {
             if (err) {
                 res.send(err);
             }
+            indicator_1.Indicator.calculate(indicator);
             res.json(indicator);
         });
     };

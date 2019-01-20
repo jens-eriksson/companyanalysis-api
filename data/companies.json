@@ -1,0 +1,674 @@
+[
+    {
+        "key": "3d-systems",
+        "name": "3D Systems"
+    },
+    {
+        "key": "abercrombie--fitch-co",
+        "name": "Abercrombie & Fitch Co."
+    },
+    {
+        "key": "accretive-health-inc",
+        "name": "Accretive Health, Inc"
+    },
+    {
+        "key": "activision-blizzard",
+        "name": "Activision Blizzard"
+    },
+    {
+        "key": "adamas-pharmaceuticals",
+        "name": "Adamas Pharmaceuticals"
+    },
+    {
+        "key": "agilent-technologies-inc",
+        "name": "Agilent Technologies Inc"
+    },
+    {
+        "key": "alibaba",
+        "name": "Alibaba"
+    },
+    {
+        "key": "alliance-fiber-optic-products-inc",
+        "name": "Alliance Fiber Optic Products Inc"
+    },
+    {
+        "key": "amazon-inc",
+        "name": "Amazon inc"
+    },
+    {
+        "key": "america-movil",
+        "name": "America Movil"
+    },
+    {
+        "key": "american-public-education-inc",
+        "name": "American Public Education, Inc"
+    },
+    {
+        "key": "american-tower",
+        "name": "American Tower"
+    },
+    {
+        "key": "anika-therapeutics-inc",
+        "name": "Anika Therapeutics Inc"
+    },
+    {
+        "key": "apollo-education",
+        "name": "Apollo Education"
+    },
+    {
+        "key": "apple-inc",
+        "name": "Apple Inc."
+    },
+    {
+        "key": "argan-inc",
+        "name": "Argan, Inc."
+    },
+    {
+        "key": "aware-inc",
+        "name": "Aware, Inc."
+    },
+    {
+        "key": "avid-technology",
+        "name": "Avid Technology"
+    },
+    {
+        "key": "avid-technology-inc",
+        "name": "Avid Technology, Inc."
+    },
+    {
+        "key": "best-buy-co-inc",
+        "name": "Best Buy Co Inc"
+    },
+    {
+        "key": "betsson",
+        "name": "Betsson"
+    },
+    {
+        "key": "bilia",
+        "name": "Bilia"
+    },
+    {
+        "key": "block-hr-inc",
+        "name": "Block H&R Inc"
+    },
+    {
+        "key": "blucora-inc",
+        "name": "Blucora Inc"
+    },
+    {
+        "key": "boeing-co",
+        "name": "Boeing Co"
+    },
+    {
+        "key": "boliden",
+        "name": "Boliden"
+    },
+    {
+        "key": "broadcom",
+        "name": "Broadcom"
+    },
+    {
+        "key": "brocade-communication-systems",
+        "name": "Brocade Communication Systems"
+    },
+    {
+        "key": "buckle-inc",
+        "name": "Buckle Inc"
+    },
+    {
+        "key": "ca-inc",
+        "name": "CA, Inc."
+    },
+    {
+        "key": "capella-education-company",
+        "name": "Capella Education Company"
+    },
+    {
+        "key": "catena-media",
+        "name": "Catena Media"
+    },
+    {
+        "key": "cisco",
+        "name": "Cisco"
+    },
+    {
+        "key": "coach-inc",
+        "name": "Coach Inc"
+    },
+    {
+        "key": "collectors-universe-inc",
+        "name": "Collectors Universe, Inc"
+    },
+    {
+        "key": "concurrent-computer-corp",
+        "name": "Concurrent Computer Corp"
+    },
+    {
+        "key": "corning-inc",
+        "name": "Corning Inc."
+    },
+    {
+        "key": "crown-media-holdings-inc",
+        "name": "Crown Media Holdings, Inc"
+    },
+    {
+        "key": "dassault-systemes",
+        "name": "Dassault Systemes"
+    },
+    {
+        "key": "deere--co",
+        "name": "Deere & Co"
+    },
+    {
+        "key": "deluxe-corp",
+        "name": "Deluxe Corp"
+    },
+    {
+        "key": "depomed-inc",
+        "name": "Depomed Inc"
+    },
+    {
+        "key": "dhi-group-inc",
+        "name": "DHI Group, Inc"
+    },
+    {
+        "key": "douglas-dynamics-inc",
+        "name": "Douglas Dynamics Inc"
+    },
+    {
+        "key": "dts-inc",
+        "name": "DTS Inc"
+    },
+    {
+        "key": "ebay",
+        "name": "eBay"
+    },
+    {
+        "key": "enata-pharmaceuticals-inc",
+        "name": "Enata Pharmaceuticals, Inc"
+    },
+    {
+        "key": "engility-holdings-inc",
+        "name": "Engility Holdings Inc"
+    },
+    {
+        "key": "facebook-inc",
+        "name": "Facebook Inc"
+    },
+    {
+        "key": "fenix-outdoor",
+        "name": "Fenix Outdoor"
+    },
+    {
+        "key": "fingerprint",
+        "name": "Fingerprint"
+    },
+    {
+        "key": "fluor-corporation",
+        "name": "Fluor Corporation"
+    },
+    {
+        "key": "gamestop",
+        "name": "GameStop"
+    },
+    {
+        "key": "gamestop-corp",
+        "name": "GameStop Corp"
+    },
+    {
+        "key": "gap-inc",
+        "name": "Gap Inc"
+    },
+    {
+        "key": "general-motors",
+        "name": "General Motors"
+    },
+    {
+        "key": "gilead-sciences-inc",
+        "name": "Gilead Sciences Inc"
+    },
+    {
+        "key": "gold-resource-corporation",
+        "name": "Gold Resource Corporation"
+    },
+    {
+        "key": "google",
+        "name": "Google"
+    },
+    {
+        "key": "haldex",
+        "name": "Haldex"
+    },
+    {
+        "key": "halliburton",
+        "name": "Halliburton"
+    },
+    {
+        "key": "harley-davidson",
+        "name": "Harley-Davidson"
+    },
+    {
+        "key": "higher-one-holdings-inc",
+        "name": "Higher One Holdings, Inc"
+    },
+    {
+        "key": "honeywell",
+        "name": "Honeywell"
+    },
+    {
+        "key": "ica-gruppen",
+        "name": "ICA Gruppen"
+    },
+    {
+        "key": "intel",
+        "name": "Intel"
+    },
+    {
+        "key": "inteliquent-inc",
+        "name": "Inteliquent Inc"
+    },
+    {
+        "key": "interdigital-inc",
+        "name": "InterDigital, Inc."
+    },
+    {
+        "key": "ituran-location-and-control-ltd",
+        "name": "Ituran Location and Control Ltd."
+    },
+    {
+        "key": "jarden-corp",
+        "name": "Jarden Corp"
+    },
+    {
+        "key": "kabe",
+        "name": "Kabe"
+    },
+    {
+        "key": "king",
+        "name": "King"
+    },
+    {
+        "key": "kinnevik-ab",
+        "name": "Kinnevik AB"
+    },
+    {
+        "key": "knowit",
+        "name": "KnowIT"
+    },
+    {
+        "key": "kornferry-international",
+        "name": "Korn/Ferry International"
+    },
+    {
+        "key": "lands'-end-inc",
+        "name": "Lands' End, Inc"
+    },
+    {
+        "key": "lannett-company-inc",
+        "name": "Lannett Company, Inc"
+    },
+    {
+        "key": "las-vegas-sands-corp",
+        "name": "Las Vegas Sands Corp"
+    },
+    {
+        "key": "lifevantage-corp",
+        "name": "LifeVantage Corp"
+    },
+    {
+        "key": "linkedin",
+        "name": "Linkedin"
+    },
+    {
+        "key": "liquidity-services-inc",
+        "name": "Liquidity Services, Inc."
+    },
+    {
+        "key": "live-nation-entertainment",
+        "name": "Live Nation Entertainment"
+    },
+    {
+        "key": "logitech",
+        "name": "Logitech"
+    },
+    {
+        "key": "mannatech-inc",
+        "name": "Mannatech, Inc"
+    },
+    {
+        "key": "manpowergroup-inc",
+        "name": "ManpowerGroup Inc"
+    },
+    {
+        "key": "mastercard",
+        "name": "MasterCard"
+    },
+    {
+        "key": "mesabi-trust",
+        "name": "Mesabi Trust"
+    },
+    {
+        "key": "metso",
+        "name": "Metso"
+    },
+    {
+        "key": "microsoft",
+        "name": "Microsoft"
+    },
+    {
+        "key": "millicom",
+        "name": "Millicom"
+    },
+    {
+        "key": "mind-cti-ltd",
+        "name": "MIND C.T.I. Ltd."
+    },
+    {
+        "key": "nasdaq-omx",
+        "name": "Nasdaq OMX"
+    },
+    {
+        "key": "natural-health-trends-corp",
+        "name": "Natural Health Trends Corp."
+    },
+    {
+        "key": "navigant-consulting-inc",
+        "name": "Navigant Consulting Inc"
+    },
+    {
+        "key": "netflix",
+        "name": "Netflix"
+    },
+    {
+        "key": "netscout-systems-inc",
+        "name": "NetScout Systems, Inc."
+    },
+    {
+        "key": "neustar-inc",
+        "name": "Neustar Inc"
+    },
+    {
+        "key": "newlink-genetics-corp",
+        "name": "NewLink Genetics Corp"
+    },
+    {
+        "key": "nevsun-resources",
+        "name": "Nevsun Resources"
+    },
+    {
+        "key": "ngs-group",
+        "name": "NGS Group"
+    },
+    {
+        "key": "nuance-inc",
+        "name": "Nuance Inc"
+    },
+    {
+        "key": "nu-skin-enterprises-inc",
+        "name": "Nu Skin Enterprises, Inc."
+    },
+    {
+        "key": "nxp-semiconductors",
+        "name": "NXP Semiconductors"
+    },
+    {
+        "key": "omnicom-group-inc",
+        "name": "Omnicom Group Inc"
+    },
+    {
+        "key": "oracle",
+        "name": "Oracle"
+    },
+    {
+        "key": "outerwall-inc",
+        "name": "Outerwall Inc"
+    },
+    {
+        "key": "pdl-biopharma-inc",
+        "name": "PDL BioPharma Inc"
+    },
+    {
+        "key": "penn-national-gaming-inc",
+        "name": "Penn National Gaming, Inc"
+    },
+    {
+        "key": "performant-financial-corp",
+        "name": "Performant Financial Corp"
+    },
+    {
+        "key": "petmed-express-inc",
+        "name": "Petmed Express Inc"
+    },
+    {
+        "key": "pilgrim's-pride-corporation",
+        "name": "Pilgrim's Pride Corporation"
+    },
+    {
+        "key": "pitney-bowes-inc",
+        "name": "Pitney Bowes Inc."
+    },
+    {
+        "key": "polaris-industries",
+        "name": "Polaris Industries"
+    },
+    {
+        "key": "pozen-inc",
+        "name": "POZEN Inc"
+    },
+    {
+        "key": "psivida-corp",
+        "name": "pSivida Corp"
+    },
+    {
+        "key": "qlik-technologies-inc",
+        "name": "Qlik Technologies Inc"
+    },
+    {
+        "key": "qlikview",
+        "name": "Qlikview"
+    },
+    {
+        "key": "qualcomm-inc",
+        "name": "QUALCOMM Inc"
+    },
+    {
+        "key": "ralph-lauren-corp",
+        "name": "Ralph Lauren Corp"
+    },
+    {
+        "key": "raytheon-company",
+        "name": "Raytheon Company"
+    },
+    {
+        "key": "rex-american-resources-corp",
+        "name": "REX American Resources Corp"
+    },
+    {
+        "key": "rpx-corp",
+        "name": "RPX Corp"
+    },
+    {
+        "key": "sanderson-farms",
+        "name": "Sanderson Farms"
+    },
+    {
+        "key": "sandisk-corporation",
+        "name": "SanDisk Corporation"
+    },
+    {
+        "key": "science-applications-international-corp",
+        "name": "Science Applications International Corp"
+    },
+    {
+        "key": "seadrill-ltd",
+        "name": "Seadrill Ltd"
+    },
+    {
+        "key": "seagate-technology",
+        "name": "Seagate Technology"
+    },
+    {
+        "key": "simon-property-group",
+        "name": "Simon Property Group"
+    },
+    {
+        "key": "skyworks",
+        "name": "Skyworks"
+    },
+    {
+        "key": "sl-industries-inc",
+        "name": "SL Industries, Inc"
+    },
+    {
+        "key": "smart-technologies-inc",
+        "name": "SMART Technologies Inc"
+    },
+    {
+        "key": "starbreeze",
+        "name": "Starbreeze"
+    },
+    {
+        "key": "starbucks",
+        "name": "Starbucks"
+    },
+    {
+        "key": "starz",
+        "name": "Starz"
+    },
+    {
+        "key": "statoil",
+        "name": "Statoil"
+    },
+    {
+        "key": "strayer-education-inc",
+        "name": "Strayer Education Inc"
+    },
+    {
+        "key": "sturm-ruger--company",
+        "name": "Sturm, Ruger & Company"
+    },
+    {
+        "key": "supernus-pharmaceuticals-inc",
+        "name": "Supernus Pharmaceuticals Inc"
+    },
+    {
+        "key": "swedbank",
+        "name": "Swedbank"
+    },
+    {
+        "key": "take-two-interactive-software-inc",
+        "name": "Take-Two Interactive Software, Inc."
+    },
+    {
+        "key": "teradata-corp",
+        "name": "Teradata Corp"
+    },
+    {
+        "key": "tesla",
+        "name": "Tesla"
+    },
+    {
+        "key": "tessera-technologies-inc",
+        "name": "Tessera Technologies, Inc."
+    },
+    {
+        "key": "the-kroger-co",
+        "name": "The Kroger Co"
+    },
+    {
+        "key": "time-inc",
+        "name": "Time Inc"
+    },
+    {
+        "key": "time-warner-inc",
+        "name": "Time Warner Inc"
+    },
+    {
+        "key": "tivo-inc",
+        "name": "TiVo Inc"
+    },
+    {
+        "key": "transocean-ltd",
+        "name": "Transocean LTD"
+    },
+    {
+        "key": "travelzoo-inc",
+        "name": "Travelzoo Inc."
+    },
+    {
+        "key": "tribune-publishing-co",
+        "name": "Tribune Publishing Co"
+    },
+    {
+        "key": "trimble",
+        "name": "Trimble"
+    },
+    {
+        "key": "tupperware-brands-corporarion",
+        "name": "Tupperware Brands Corporarion"
+    },
+    {
+        "key": "tyson-foods",
+        "name": "Tyson Foods"
+    },
+    {
+        "key": "ubiquiti-networks",
+        "name": "Ubiquiti Networks"
+    },
+    {
+        "key": "unisys-corporation",
+        "name": "Unisys Corporation"
+    },
+    {
+        "key": "usana-health-sciences-inc",
+        "name": "USANA Health Sciences, Inc."
+    },
+    {
+        "key": "walt-disney-co-",
+        "name": "Walt Disney Co. "
+    },
+    {
+        "key": "wayside-technology-group-inc",
+        "name": "Wayside Technology Group, Inc."
+    },
+    {
+        "key": "vectrus-inc",
+        "name": "Vectrus Inc"
+    },
+    {
+        "key": "weight-watchers-international-inc",
+        "name": "Weight Watchers International, Inc"
+    },
+    {
+        "key": "verizon-communications-inc",
+        "name": "Verizon Communications Inc."
+    },
+    {
+        "key": "western-digital",
+        "name": "Western Digital"
+    },
+    {
+        "key": "whole-foods-market",
+        "name": "Whole Foods Market"
+    },
+    {
+        "key": "viacom-inc",
+        "name": "Viacom, Inc"
+    },
+    {
+        "key": "visa",
+        "name": "Visa"
+    },
+    {
+        "key": "volkswagen",
+        "name": "Volkswagen"
+    },
+    {
+        "key": "xenon-pharmaceuticals-inc",
+        "name": "Xenon Pharmaceuticals Inc"
+    },
+    {
+        "key": "zynga",
+        "name": "Zynga"
+    }
+]
